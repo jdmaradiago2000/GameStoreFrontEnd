@@ -1,0 +1,86 @@
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore.Frontend\GameStore.Frontend\bin\Debug\net8.0\appsettings.Development.json
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore.Frontend\GameStore.Frontend\bin\Debug\net8.0\appsettings.json
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore.Frontend\GameStore.Frontend\bin\Debug\net8.0\GameStore.Frontend.staticwebassets.runtime.json
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore.Frontend\GameStore.Frontend\bin\Debug\net8.0\GameStore.Frontend.exe
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore.Frontend\GameStore.Frontend\bin\Debug\net8.0\GameStore.Frontend.deps.json
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore.Frontend\GameStore.Frontend\bin\Debug\net8.0\GameStore.Frontend.runtimeconfig.json
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore.Frontend\GameStore.Frontend\bin\Debug\net8.0\GameStore.Frontend.dll
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore.Frontend\GameStore.Frontend\bin\Debug\net8.0\GameStore.Frontend.pdb
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore.Frontend\GameStore.Frontend\obj\Debug\net8.0\GameStore.Frontend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore.Frontend\GameStore.Frontend\obj\Debug\net8.0\GameStore.Frontend.AssemblyInfoInputs.cache
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore.Frontend\GameStore.Frontend\obj\Debug\net8.0\GameStore.Frontend.AssemblyInfo.cs
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore.Frontend\GameStore.Frontend\obj\Debug\net8.0\GameStore.Frontend.csproj.CoreCompileInputs.cache
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore.Frontend\GameStore.Frontend\obj\Debug\net8.0\GameStore.Frontend.MvcApplicationPartsAssemblyInfo.cache
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore.Frontend\GameStore.Frontend\obj\Debug\net8.0\staticwebassets.build.json
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore.Frontend\GameStore.Frontend\obj\Debug\net8.0\staticwebassets.development.json
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore.Frontend\GameStore.Frontend\obj\Debug\net8.0\staticwebassets\msbuild.GameStore.Frontend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore.Frontend\GameStore.Frontend\obj\Debug\net8.0\staticwebassets\msbuild.build.GameStore.Frontend.props
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore.Frontend\GameStore.Frontend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GameStore.Frontend.props
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore.Frontend\GameStore.Frontend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GameStore.Frontend.props
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore.Frontend\GameStore.Frontend\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore.Frontend\GameStore.Frontend\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore.Frontend\GameStore.Frontend\obj\Debug\net8.0\scopedcss\bundle\GameStore.Frontend.styles.css
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore.Frontend\GameStore.Frontend\obj\Debug\net8.0\scopedcss\projectbundle\GameStore.Frontend.bundle.scp.css
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore.Frontend\GameStore.Frontend\obj\Debug\net8.0\GameStore.Frontend.dll
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore.Frontend\GameStore.Frontend\obj\Debug\net8.0\refint\GameStore.Frontend.dll
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore.Frontend\GameStore.Frontend\obj\Debug\net8.0\GameStore.Frontend.pdb
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore.Frontend\GameStore.Frontend\obj\Debug\net8.0\GameStore.Frontend.genruntimeconfig.cache
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore.Frontend\GameStore.Frontend\obj\Debug\net8.0\ref\GameStore.Frontend.dll
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore\GameStore.Frontend\bin\Debug\net8.0\appsettings.Development.json
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore\GameStore.Frontend\bin\Debug\net8.0\appsettings.json
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore\GameStore.Frontend\bin\Debug\net8.0\GameStore.Frontend.staticwebassets.runtime.json
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore\GameStore.Frontend\bin\Debug\net8.0\GameStore.Frontend.exe
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore\GameStore.Frontend\bin\Debug\net8.0\GameStore.Frontend.deps.json
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore\GameStore.Frontend\bin\Debug\net8.0\GameStore.Frontend.runtimeconfig.json
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore\GameStore.Frontend\bin\Debug\net8.0\GameStore.Frontend.dll
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore\GameStore.Frontend\bin\Debug\net8.0\GameStore.Frontend.pdb
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore\GameStore.Frontend\obj\Debug\net8.0\GameStore.Frontend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore\GameStore.Frontend\obj\Debug\net8.0\GameStore.Frontend.AssemblyInfoInputs.cache
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore\GameStore.Frontend\obj\Debug\net8.0\GameStore.Frontend.AssemblyInfo.cs
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore\GameStore.Frontend\obj\Debug\net8.0\GameStore.Frontend.csproj.CoreCompileInputs.cache
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore\GameStore.Frontend\obj\Debug\net8.0\GameStore.Frontend.MvcApplicationPartsAssemblyInfo.cache
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore\GameStore.Frontend\obj\Debug\net8.0\GameStore.Frontend.sourcelink.json
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore\GameStore.Frontend\obj\Debug\net8.0\staticwebassets.build.json
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore\GameStore.Frontend\obj\Debug\net8.0\staticwebassets.development.json
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore\GameStore.Frontend\obj\Debug\net8.0\staticwebassets\msbuild.GameStore.Frontend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore\GameStore.Frontend\obj\Debug\net8.0\staticwebassets\msbuild.build.GameStore.Frontend.props
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore\GameStore.Frontend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GameStore.Frontend.props
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore\GameStore.Frontend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GameStore.Frontend.props
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore\GameStore.Frontend\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore\GameStore.Frontend\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore\GameStore.Frontend\obj\Debug\net8.0\scopedcss\bundle\GameStore.Frontend.styles.css
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore\GameStore.Frontend\obj\Debug\net8.0\scopedcss\projectbundle\GameStore.Frontend.bundle.scp.css
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore\GameStore.Frontend\obj\Debug\net8.0\GameStore.Frontend.dll
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore\GameStore.Frontend\obj\Debug\net8.0\refint\GameStore.Frontend.dll
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore\GameStore.Frontend\obj\Debug\net8.0\GameStore.Frontend.pdb
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore\GameStore.Frontend\obj\Debug\net8.0\GameStore.Frontend.genruntimeconfig.cache
+D:\Cursos_Informatica\ASP.NET Core Full Course For Beginners - Julio Casal Youtube\GameStore\GameStore.Frontend\obj\Debug\net8.0\ref\GameStore.Frontend.dll
+D:\Projects\GameStore FrontEnd\GameStore.Frontend\bin\Debug\net8.0\appsettings.Development.json
+D:\Projects\GameStore FrontEnd\GameStore.Frontend\bin\Debug\net8.0\appsettings.json
+D:\Projects\GameStore FrontEnd\GameStore.Frontend\bin\Debug\net8.0\GameStore.Frontend.staticwebassets.runtime.json
+D:\Projects\GameStore FrontEnd\GameStore.Frontend\bin\Debug\net8.0\GameStore.Frontend.exe
+D:\Projects\GameStore FrontEnd\GameStore.Frontend\bin\Debug\net8.0\GameStore.Frontend.deps.json
+D:\Projects\GameStore FrontEnd\GameStore.Frontend\bin\Debug\net8.0\GameStore.Frontend.runtimeconfig.json
+D:\Projects\GameStore FrontEnd\GameStore.Frontend\bin\Debug\net8.0\GameStore.Frontend.dll
+D:\Projects\GameStore FrontEnd\GameStore.Frontend\bin\Debug\net8.0\GameStore.Frontend.pdb
+D:\Projects\GameStore FrontEnd\GameStore.Frontend\obj\Debug\net8.0\GameStore.Frontend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GameStore FrontEnd\GameStore.Frontend\obj\Debug\net8.0\GameStore.Frontend.AssemblyInfoInputs.cache
+D:\Projects\GameStore FrontEnd\GameStore.Frontend\obj\Debug\net8.0\GameStore.Frontend.AssemblyInfo.cs
+D:\Projects\GameStore FrontEnd\GameStore.Frontend\obj\Debug\net8.0\GameStore.Frontend.csproj.CoreCompileInputs.cache
+D:\Projects\GameStore FrontEnd\GameStore.Frontend\obj\Debug\net8.0\GameStore.Frontend.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\GameStore FrontEnd\GameStore.Frontend\obj\Debug\net8.0\GameStore.Frontend.sourcelink.json
+D:\Projects\GameStore FrontEnd\GameStore.Frontend\obj\Debug\net8.0\staticwebassets.build.json
+D:\Projects\GameStore FrontEnd\GameStore.Frontend\obj\Debug\net8.0\staticwebassets.development.json
+D:\Projects\GameStore FrontEnd\GameStore.Frontend\obj\Debug\net8.0\staticwebassets\msbuild.GameStore.Frontend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\GameStore FrontEnd\GameStore.Frontend\obj\Debug\net8.0\staticwebassets\msbuild.build.GameStore.Frontend.props
+D:\Projects\GameStore FrontEnd\GameStore.Frontend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GameStore.Frontend.props
+D:\Projects\GameStore FrontEnd\GameStore.Frontend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GameStore.Frontend.props
+D:\Projects\GameStore FrontEnd\GameStore.Frontend\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Projects\GameStore FrontEnd\GameStore.Frontend\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+D:\Projects\GameStore FrontEnd\GameStore.Frontend\obj\Debug\net8.0\scopedcss\bundle\GameStore.Frontend.styles.css
+D:\Projects\GameStore FrontEnd\GameStore.Frontend\obj\Debug\net8.0\scopedcss\projectbundle\GameStore.Frontend.bundle.scp.css
+D:\Projects\GameStore FrontEnd\GameStore.Frontend\obj\Debug\net8.0\GameStore.Frontend.dll
+D:\Projects\GameStore FrontEnd\GameStore.Frontend\obj\Debug\net8.0\refint\GameStore.Frontend.dll
+D:\Projects\GameStore FrontEnd\GameStore.Frontend\obj\Debug\net8.0\GameStore.Frontend.pdb
+D:\Projects\GameStore FrontEnd\GameStore.Frontend\obj\Debug\net8.0\GameStore.Frontend.genruntimeconfig.cache
+D:\Projects\GameStore FrontEnd\GameStore.Frontend\obj\Debug\net8.0\ref\GameStore.Frontend.dll
